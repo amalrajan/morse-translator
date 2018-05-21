@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MorseCode</string>
+    <string name="translate">Translate</string>
+    <string name="output">The translated content will appear here</string>
+    <string name="input_hint">Enter your text here</string>
+    <string name="welcome_1">Hi!</string>
+    <string name="welcome_2">Tap on continue to begin</string>
+    <string name="welcome_button_1">CONTINUE</string>
+</resources>
